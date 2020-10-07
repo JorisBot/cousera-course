@@ -1,1 +1,24 @@
+/* Style navbar #bff3aa*/
+
+.navbar-toggle{
+    background-color: #dff0d8;
+}
+
+.navbar-default .navbar-toggle:focus {
+    background-color: #fcf8e3;
+}
+
+.navbar-default .navbar-toggle:hover {
+    background-color: #fcf8e3;
+}
+
+.navbar-default .navbar-brand {
+    color: #000;
+}
+
+.navbar-default .navbar-nav>li>a:hover{
+  text-decoration: none;
+  background-color: #dff0d8;
+}
+
 
